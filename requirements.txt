@@ -2,3 +2,5 @@ fastapi
 uvicorn[standard]
 google-genai
 python-multipart
+edge-tts
+imageio-ffmpeg
